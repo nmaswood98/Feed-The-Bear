@@ -1,2 +1,2 @@
 # Feed-The-Bear
-This is Feed The Bear. Released on the App Store in 2014
+This is Feed The Bear by Nabhan Maswood. Released on the App Store in 2014
